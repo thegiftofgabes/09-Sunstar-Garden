@@ -53,3 +53,7 @@ location   Description
 4. A devil offers treasure and the knowledge of the secret of this place in exchange to being freed from its bondage;
 5. You find a chest with the moon etched onto its lid. If you manage to open its sophisticated contraption, you will find a magical, luminous globe. WHat does it do?
 6. The Hermit finds you and offers to tell you a secret or to accept helping them. Both are unpleasant and neither is escapable.
+
+Made following James Chip's HTML and ePub ttrpg creation.
+
+https://jameschip.itch.io/html-and-epub-ttrpg-creation
